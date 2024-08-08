@@ -1,6 +1,6 @@
 const target = document.getElementById('target');
 
-const list = document.createElement('ul');
+const list = document.createElement('div');
 
 for (g = 1; g <= 10; g++) {
 
